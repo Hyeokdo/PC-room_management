@@ -1,0 +1,72 @@
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Program.exe.config
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Program.exe
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Program.pdb
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.exe
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.pdb
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\user\Desktop\백업 폴더\Program\Program\bin\Debug\Program.exe.config
+C:\Users\user\Desktop\백업 폴더\Program\Program\bin\Debug\Program.exe
+C:\Users\user\Desktop\백업 폴더\Program\Program\bin\Debug\Program.pdb
+C:\Users\user\Desktop\백업 폴더\Program\Program\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\백업 폴더\Program\Program\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.Form1.resources
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.Form2.resources
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.exe
+C:\Users\user\Desktop\백업 폴더\Program\Program\obj\Debug\Program.pdb
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MySql.Web.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.Helpers.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.Razor.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\WebMatrix.Data.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\WebMatrix.WebData.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Zstandard.Net.dll
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\MySql.Web.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.Helpers.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.Razor.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\WebMatrix.Data.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\WebMatrix.WebData.xml
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.Form3.resources
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Program.exe.manifest
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\bin\Debug\Program.application
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.exe.manifest
+C:\Users\user\Desktop\전산실 관리 프로그램\Program\Program\obj\Debug\Program.application
